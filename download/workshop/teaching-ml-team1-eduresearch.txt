@@ -1,0 +1,134 @@
+Education Research
+What are research projects you know of?
+	* In stats there is a lot of research, e.g. http://iase-web.org/documents/SERJ/SERJ17(2)_Ziegler.pdf?1558986206; 
+	* Literacy-Model (Bauer & Hefendehl-Hebeker 2019): https://link.springer.com/chapter/10.1007/978-3-658-26682-0_2
+		* Everyday Literacy (Knowledge based on personal and communal experience)
+		* Applied Literacy (Skill-based Literacy: Using a specific skill of know-how, based on acquired expertise)
+		* Theoretical Literacy (Disciplinary knowledge)
+		* Reflexive Literacy (Probing assumed and specialized knowledge systems)
+		* -> Translate to statistical/data/ML/ethics literacy
+	* Example for large assesment: http://www.isi-stats.com/isi/presentations/ICOTS2018-1.pdf
+	* Framework / Kompetenzmatrix für Data Literacy: https://www.stifterverband.org/download/file/fid/9278
+	* Literacy in CS https://www.youtube.com/watch?v=CS3j6Wtdus4&t=141s 
+
+
+What are research projects that could be done?
+	* Depends a lot on target audience
+	* What are the key concepts students should know?
+
+
+Developing a questionaire for students to discover the pedagogical content knowledge (PCK) necessary for teaching concepts in machine learning.
+(See also https://twitter.com/HeidiBaya/status/1303675224379056130 )
+https://medium.com/bits-and-behavior/we-need-to-learn-how-to-teach-machine-learning-acc78bac3ff8
+	* Discussion on "knowledge of which concepts in machine learning are difficult and why" -> who could know that? Teachers? What questions do we need to aks?
+	* Step 1: what are topics that come up in every class?
+	* What common pitfalls do you encounter?
+	* 
+
+Which topics are often overlooked when teaching ml? 
+
+
+
+
+Competence Definition for Machine learning
+
+
+Fields of competence (different levels of depth apply to all):
+	* Everyday literacy (Knowledge based on personal and communal experience)
+		* What is ML? What does it have to do with AI?
+		* What do the buzz words (big data, AI, ...) mean?
+		* What can ML do? What can it not do (or is not useful for)? What is ML used for in practice?
+		* Can ML be helpful for my problem/my data?
+		* What are good/useful data? What are potential data problems? (Questioning data)
+		* What are ethical issues of ML?
+
+	* Applied literacy (Skill-based Literacy: Using a specific skill of know-how, based on acquired expertise)
+		* How to apply ML in practice with data?
+		* How to make decisions based on data / ML results?
+		* Key concepts of ML 
+			* supervised / unsupervised
+			* basic algorithms / methods
+			* evaluation (cv, etc)
+		* Running ML pipelines on computer
+
+	* Theoretical literacy (Disciplinary knowledge)
+		* Mathematical, statistical and computational background of the methods
+		* Connection between different concepts/methods
+		* Open questions in ML research
+		* Adapt + implement algorithms in code
+
+	* Reflexive Literacy (Probing assumed and specialized knowledge systems)
+		* What is the reason for (not) ML?
+		* What are limitations of ML/methods?
+		* When does what (not) work?
+		* What is the effect of ML/research on society?
+		* What are the responsibilities of a machine learner?
+
+
+TODO: 
+	* Extend + improve framework with ideas from others.
+	* Define competencies needed for the framework above.
+	* Do the points from "everyday literacy" have to come up in the higher literacy levels as well?
+
+
+
+
+
+Everyday Literacy  
+	* Diese Stufe betrifft Wissen aus der Alltagserfahrung, „based on personal and communal experience“ (Macken-Horarik, a. a. O.). In unserer mathematikbezogenen Version des Modells fassen wir darunter diejenigen Elemente der Mathematik, die im Alltag sichtbar vorkommen und deren Beherrschung für eine gesellschaftliche Teilhabe wichtig ist. (Es gibt darüber hinaus einen großen Bereich von Mathematik, der auf unsichtbare Weise in unserer technisierten Welt vorkommt. Diese Mathematik meinen wir hier nicht, denn sie ist zwar höchst alltagsrelevant, stellt aber kein Alltagswissen des Individuums dar, das hier Mathematik nur indirekt nutzt – vielleicht sogar, ohne sich dessen im Detail bewusst zu sein). Zur Mathematik auf der Stufe der Everyday Literacy gehören in unserer Auffassung u. a.
+		* elementares Rechnen wie Bruchrechnung und Prozentrechnung,
+		* elementares logisches Schließen,
+		* elementargeometrische Kenntnisse aus der Figuren- und Inhaltslehre,
+		* ein Verständnis für Wahrscheinlichkeiten und
+		* eine allgemeine „Lese- und Interpretationsfähigkeit“ (vgl. Vohns 2018) für mathematische und mathematikhaltige Darstellungen, wie z. B. Tabellen, Funktionsgraphen, statistische Grafiken und Prozentangaben.
+	* 
+
+Applied Literacy
+	* Wissen auf dieser Stufe ist an den Zweck einer bereits spezialisierten Verwendung gebunden. Macken-Horarik (a. a. O.) charakterisiert sie als „using a specific skill or ‚know-how‘, based on acquired expertise“, Brabazon (a. a. O.) spricht von „skill-based literacy“. Auf die Mathematik bezogen fassen wir hierunter das Wissen, mit dem sich die Mathematik gegenüber anderen Disziplinen (z. B. den Ingenieurwissenschaften) darstellt und ihnen Werkzeuge zur Lösung bestimmter Aufgaben liefert. In der Mathematikausbildung betonen wir diese Literacy-Stufe, wenn etwa in Übungs- und Prüfungsaufgaben zur Analysis und Linearen Algebra Fertigkeiten der folgenden Art gefordert werden:
+		* Berechne die Ableitung der folgenden Funktion: … 
+		* Bestimme die Extrema der Funktion f: … 
+		* Bestimme das Monotonieverhalten der Funktion f: … 
+		* Löse das Gleichungssystem …
+		* Diagonalisiere die Matrix A = …
+	* Die Anforderung besteht hier jeweils darin, mit einem geeigneten Verfahren Informationen über ein mathematisches Objekt zu erhalten. In außermathematischen Anwendungssituationen sind solche Informationen oft relevant, während die zugrunde liegende Theorie eher im Hintergrund bleibt.
+	* 
+
+Theoretical Literacy
+	* Dies ist die Stufe des disziplinären Wissens. Wir fassen hierunter Wissen, wie es die Mathematik etwa in publizierten Arbeiten und Monografien explizit darstellt. In der Mathematikausbildung (z. B. in Übungs- und Prüfungsaufgaben) wird diese Literacy-Stufe angesprochen, wenn es um das Verstehen von Definitionen, Sätzen und Beweisen geht oder wenn Beziehungen hergestellt und begründet werden. Die Beantwortung von Fragen folgenden Typs erfordert Theoretical Literacy:
+		* Wie ist der Begriff der Differenzierbarkeit definiert? Welche Differenzierbarkeitsbegriffe unterscheidet man bei Funktionen von mehreren Veränderlichen? In welchem Zusammenhang stehen diese Begriffe? Wie kann man beweisen, dass Verkettungen differenzierbarer Funktionen wieder differenzierbar sind?
+		* Was versteht man unter Riemann-Integrierbarkeit? Welche Eigenschaften hat dieser Begriff? Wie kann man zeigen, dass stetige Funktionen Riemann-integrierbar sind? Welche Beispiele für Funktionen kennen Sie, die nicht Riemann-integrierbar sind? Wie unterscheidet sich die Riemann-Integrierbarkeit hier von anderen Integrierbarkeitsbegriffen?
+		* Was besagt der Zwischenwertsatz? Wie kann man ihn beweisen?
+	* 
+
+
+Reflexive Literacy
+	* Diese oberste Stufe (bei Brabazon u. a. als „probing assumed and specialized knowledge systems“ charakterisiert) interpretieren wir für die Mathematik als den Bereich, in dem es um das (oft implizite) Wissen über die Arbeitsweisen und Gepflogenheiten in der Disziplin geht, das innerhalb der Fachgemeinschaft weitergegeben wird. Die Anforderung liegt hier darin, das Wissenssystem der Disziplin als solches mit seinen internen Regulierungen und handlungsleitenden Normen zu verstehen: Was will die Disziplin? Wie geht sie vor, um ihre Ziele zu erreichen? Warum wird so vorgegangen?
+	* Das „Durchschauen“ des Getriebes beinhaltet also [...], dass die Studierenden die Kontingenz mathematischer Definitionen erkennen und dass sie Werturteile über mathematische Resultate fällen können. Genau dies sind Fähigkeiten, die auch diejenigen benötigen, die in der mathematischen Forschung arbeiten – es sind handlungsleitende Elemente jeder kreativen mathematischen Arbeit. Man erkennt hieran, dass die Stufe der Reflexive Literacy nicht eine Perspektive auf Mathematik meint, die gleichsam „von außen“ aus unbeteiligter Position auf mathematisches Arbeiten gerichtet wird, sondern dass es vielmehr um eine zentrale Anforderung an professionell Mathematiktreibende geht – sie betrifft den Kern der Disziplin.
+	* Seaman und Szydlik (2007) stellen einen überzeugenden Bezug her zwischen dem Wissen um professionelle Vorgehensweisen von Mathematikern und dem Erfolg von Studierenden bei Aufgaben sowohl zum prozeduralen als auch zum konzeptuellen Wissen. Basierend auf einer Studie, die sie mit Lehramtsstudierenden durchgeführt haben, kommen die Autoren zu dem Schluss, dass sich die erfolgreicheren Teilnehmer von den weniger erfolgreichen in ihrem mathematischen Verhalten und ihren mathematikbezogenen Wertvorstellungen signifikant unterscheiden. Die Unterschiede erfassen Seaman und Szydlik in ihrem Framework der Mathematical Sophistication. Ins Deutsche übertragen und in drei Bereiche gruppiert lassen sich die damit verbundenen Züge mathematischen Verhaltens in Kurzform so darstellen (vgl. Bauer 2017):
+		* Was Mathematiker zu erreichen suchen: Sie versuchen, Regelmäßigkeiten und Beziehungen zwischen mathematischen Objekten zu verstehen und Analogien zwischen Sätzen, Beweisen, Theorien zu finden.
+		* Wie sie mit mathematischen Objekten umgehen: Sie schaffen dafür mentale Modelle, symbolische Darstellungen sowie Beispiele und Gegenbeispiele. Sie stellen Vermutungen über sie auf und testen diese.
+		* Wie sie sich Gewissheit verschaffen: Sie schätzen präzise Sprache und die feinen Unterscheidungen, die sie ermöglicht. Sie nutzen präzise Definitionen, um Bedeutung zu schaffen, und verwenden logische Argumente und Gegenbeispiele, um zu überzeugen.
+	* Wir geben einige Beispiele für Fragen auf der reflexiven Stufe – in jedem Fall erfordert es Wissen und Erfahrungsreichtum oberhalb der theoretischen Stufe, um sie beantworten zu können:
+		* Wie würde in dieser mathematischen Situation ein „natürlicher“ Satz lauten? (genuine Fragestellungen des Fachs)
+		* Kann man hoffen, dass er wahr ist? (Fachbezogene Intuition)
+		* Wäre das nützlich? Wäre das schön? (Werte und Ästhetik des Fachs)
+		* Was könnte man versuchen, um den erhofften Satz zu beweisen? (Heuristische Fähigkeiten)
+		* Wäre es der Mühe wert, darüber nachzudenken/daran zu arbeiten?
+	* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

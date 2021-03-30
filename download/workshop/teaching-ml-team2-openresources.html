@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>teaching-ml2</title>
+<meta name="generator" content="Etherpad">
+<meta name="author" content="Etherpad">
+<meta name="changedby" content="Etherpad">
+<meta charset="utf-8">
+<style>
+* {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+}
+ul.indent {
+  list-style-type: none;
+}
+ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+body > ol {
+  counter-reset: first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth thirteenth fourteenth fifteenth sixteenth;
+}
+ol > li:before {
+  content: counter(first) ". ";
+  counter-increment: first;
+}
+ol > ol > li:before {
+  content: counter(first) "." counter(second) ". ";
+  counter-increment: second;
+}
+ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) ". ";
+  counter-increment: third;
+}
+ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) ". ";
+  counter-increment: fourth;
+}
+ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) ". ";
+  counter-increment: fifth;
+}
+ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) ". ";
+  counter-increment: sixth;
+}
+ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) ". ";
+  counter-increment: seventh;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) ". ";
+  counter-increment: eighth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) ". ";
+  counter-increment: ninth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) ". ";
+  counter-increment: tenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) ". ";
+  counter-increment: eleventh;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) ". ";
+  counter-increment: twelfth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) ". ";
+  counter-increment: thirteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) ". ";
+  counter-increment: fourteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) "." counter(fifteenth) ". ";
+  counter-increment: fifteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) "." counter(fifteenth) "." counter(sixteenth) ". ";
+  counter-increment: sixteenth;
+}
+ol {
+  text-indent: 0px;
+}
+ol > ol {
+  text-indent: 10px;
+}
+ol > ol > ol {
+  text-indent: 20px;
+}
+ol > ol > ol > ol {
+  text-indent: 30px;
+}
+ol > ol > ol > ol > ol {
+  text-indent: 40px;
+}
+ol > ol > ol > ol > ol > ol {
+  text-indent: 50px;
+}
+ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 60px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 70px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 80px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 90px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 100px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 110px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 120px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 130px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 140px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 150px;
+}
+
+</style>
+</head>
+<body>
+<strong>First</strong>, introduce yourself with the following ice breaker questions:<br><br><ul class="bullet"><li>What&#x27;s your name and why are you here?<ul class="bullet"><li>Oliver Guhr, HTW Dresden, co-chair, teaching ML and NLP</li><li>Carola Gajek, Uni Augsburg</li><li>Katherine Kinnaird, Smith College (Northampton MA, USA)</li><li>Hussain Kazmi, KU Leuven</li><li>Cornelia Gamst, KI-Campus</ul><li>What&#8217;s your number one tip for combating distractions when working from home?<ul class="bullet"><li>&quot;How to Salvage a Disastrous Day in Your Covid-19 House Arrest&quot; - <a href="https&#x3a;&#x2F;&#x2F;community&#x2e;chronicle&#x2e;com&#x2F;news&#x2F;2339&#x2d;how&#x2d;to&#x2d;salvage&#x2d;a&#x2d;disastrous&#x2d;day&#x2d;in&#x2d;your&#x2d;covid&#x2d;19&#x2d;house&#x2d;arrest">https:&#x2F;&#x2F;community.chronicle.com&#x2F;news&#x2F;2339-how-to-salvage-a-disastrous-day-in-your-covid-19-house-arrest</a></ul><li>What&#8217;s the best piece of advice you&#8217;ve ever been given?</li><li>Collect advisors like you collect playing cards.</ul><br><br><br><ol class="number"><li><strong>What open resources do exist?</strong><ol class="number"><li>non technical overview of AI <a href="https&#x3a;&#x2F;&#x2F;course&#x2e;elementsofai&#x2e;com&#x2F;">https:&#x2F;&#x2F;course.elementsofai.com&#x2F;</a> (will be extended)</li><li>CS224n: Natural Language Processing with Deep Learning - <a href="http&#x3a;&#x2F;&#x2F;web&#x2e;stanford&#x2e;edu&#x2F;class&#x2F;cs224n&#x2F;">http:&#x2F;&#x2F;web.stanford.edu&#x2F;class&#x2F;cs224n&#x2F;</a></li><li>CS231n: Convolutional Neural Networks for Visual Recognition <a href="http&#x3a;&#x2F;&#x2F;cs231n&#x2e;stanford&#x2e;edu&#x2F;">http:&#x2F;&#x2F;cs231n.stanford.edu&#x2F;</a></li><li><a href="https&#x3a;&#x2F;&#x2F;www&#x2e;deeplearningbook&#x2e;org&#x2F;">https:&#x2F;&#x2F;www.deeplearningbook.org&#x2F;</a></li><li><a href="https&#x3a;&#x2F;&#x2F;d2l&#x2e;ai&#x2F;">https:&#x2F;&#x2F;d2l.ai&#x2F;</a> Dive into Deep Learning</li><li><a href="https&#x3a;&#x2F;&#x2F;datasciencebox&#x2e;org&#x2F;">https:&#x2F;&#x2F;datasciencebox.org&#x2F;</a></li><li><a href="https&#x3a;&#x2F;&#x2F;www&#x2e;fast&#x2e;ai&#x2F;">https:&#x2F;&#x2F;www.fast.ai&#x2F;</a></li><li>We love: 3 blue 1 brown <a href="https&#x3a;&#x2F;&#x2F;www&#x2e;youtube&#x2e;com&#x2F;channel&#x2F;UCYO&#x5f;jab&#x5f;esuFRV4b17AJtAw">https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCYO_jab_esuFRV4b17AJtAw</a></li><li>From Neural Network introduction, backpropagation to deep learning calculus&nbsp; -&gt; <a href="https&#x3a;&#x2F;&#x2F;www&#x2e;youtube&#x2e;com&#x2F;playlist&#x3f;list&#x3d;PLZHQObOWTQDNU6R1&#x5f;67000Dx&#x5f;ZCJB&#x2d;3pi">https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi</a></li><li>The Turing Way <a href="https&#x3a;&#x2F;&#x2F;the&#x2d;turing&#x2d;way&#x2e;netlify&#x2e;app&#x2F;welcome">https:&#x2F;&#x2F;the-turing-way.netlify.app&#x2F;welcome</a></li><li>list all the open materials from workshop participants<ol class="number"><li>Computational Machine Learning (without statistics) - <a href="https&#x3a;&#x2F;&#x2F;github&#x2e;com&#x2F;comp&#x2d;machine&#x2d;learning&#x2d;general&#x2F;course&#x2d;materials">https:&#x2F;&#x2F;github.com&#x2F;comp-machine-learning-general&#x2F;course-materials</a></li><li><a href="https&#x3a;&#x2F;&#x2F;github&#x2e;com&#x2F;isse&#x2d;augsburg&#x2F;ecml2020&#x2d;teach&#x2d;ml">https:&#x2F;&#x2F;github.com&#x2F;isse-augsburg&#x2F;ecml2020-teach-ml</a></li><li>Interactive Decision Tree Learning <a href="https&#x3a;&#x2F;&#x2F;ml&#x2e;isse&#x2e;de&#x2F;dt&#x2F;">https:&#x2F;&#x2F;ml.isse.de&#x2F;dt&#x2F;</a></li><li>LMU Introduction to ML: <a href="https&#x3a;&#x2F;&#x2F;compstat&#x2d;lmu&#x2e;github&#x2e;io&#x2F;lecture&#x5f;i2ml&#x2F;index&#x2e;html">https:&#x2F;&#x2F;compstat-lmu.github.io&#x2F;lecture_i2ml&#x2F;index.html</a>&nbsp;</li><li><a href="https&#x3a;&#x2F;&#x2F;huppenkothen&#x2e;org&#x2F;machine&#x2d;learning&#x2d;tutorial&#x2F;">https:&#x2F;&#x2F;huppenkothen.org&#x2F;machine-learning-tutorial&#x2F;</a></li><li>...&nbsp;</ol><li>How do you find open resources?<ol class="number"><li>Do you know a good search engine? -&gt; google :)</li><li>Only by recommendation of colleagues or on conferences?</li><li>Journal of Open Source Education <a href="https&#x3a;&#x2F;&#x2F;jose&#x2e;theoj&#x2e;org&#x2F;">https:&#x2F;&#x2F;jose.theoj.org&#x2F;</a></li><li>Sharing network jointly creating Jupyter Notebooks</li><li>Including a conference once a year</li><li>TWITTER</li><li>Towards Data Science</li><li>Reddit</li><li>Repo initilized over twitter with DataCamp alternatives: <a href="https&#x3a;&#x2F;&#x2F;github&#x2e;com&#x2F;Chris&#x2d;Engelhardt&#x2F;data&#x5f;sci&#x5f;guide">https:&#x2F;&#x2F;github.com&#x2F;Chris-Engelhardt&#x2F;data_sci_guide</a><ol class="number"><li>all DataCamp lesson alternatives gathered here: <a href="https&#x3a;&#x2F;&#x2F;docs&#x2e;google&#x2e;com&#x2F;spreadsheets&#x2F;d&#x2F;1LtaeWPzEhRiy&#x2d;kdNZBn0gPwc6aTYkWtt6Cau6PzcXuo&#x2F;edit&#x23;gid&#x3d;0">https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1LtaeWPzEhRiy-kdNZBn0gPwc6aTYkWtt6Cau6PzcXuo&#x2F;edit#gid=0</a></ol><li></ol><li>How do you use someone else&#x27;s open resources for your course?<ol class="number"><li>Reuse Notbooks, use images &#x2F; explanations&nbsp;</li><li>Adapt exercises to your student target group</ol></li></ol><li><strong>What stops the participants in the workshop from making their material available?</strong><ol class="number"><li>Funding agency requirements</li><li>Who owns the IP for materials?</li><li>Insecurities about material&#x27;s quality.</li><li>Tip: put all used materials at the bottom (for transparency, but also for students to see what went into the creation of materials)</ol><li><strong>What are your experiences with open educational resources?</strong><ol class="number"><li>Hard to find a good Python introduction for beginners. Tips are welcome :)&nbsp;<ol class="number"><li>Do you know the OpenTechSchool materials? <a href="http&#x3a;&#x2F;&#x2F;opentechschool&#x2e;github&#x2e;io&#x2F;python&#x2d;beginnPyers&#x2F;">http:&#x2F;&#x2F;opentechschool.github.io&#x2F;python-beginnPyers&#x2F;</a></li><li>Or the Coursera classic from U Michigan (also available outside Coursera)? <a href="https&#x3a;&#x2F;&#x2F;online&#x2e;umich&#x2e;edu&#x2F;courses&#x2F;programming&#x2d;for&#x2d;everybody&#x2d;getting&#x2d;started&#x2d;with&#x2d;python&#x2F;">https:&#x2F;&#x2F;online.umich.edu&#x2F;courses&#x2F;programming-for-everybody-getting-started-with-python&#x2F;</a></li><li>&quot;How to Think Like a Computer Scientist: Interactive Edition&quot; - <a href="https&#x3a;&#x2F;&#x2F;runestone&#x2e;academy&#x2F;runestone&#x2F;books&#x2F;published&#x2F;thinkcspy&#x2F;index&#x2e;html">https:&#x2F;&#x2F;runestone.academy&#x2F;runestone&#x2F;books&#x2F;published&#x2F;thinkcspy&#x2F;index.html</a></li><li>No longer open - &quot;Python the Hard way&quot; - <a href="https&#x3a;&#x2F;&#x2F;shop&#x2e;learncodethehardway&#x2e;org&#x2F;access&#x2F;buy&#x2F;9&#x2F;">https:&#x2F;&#x2F;shop.learncodethehardway.org&#x2F;access&#x2F;buy&#x2F;9&#x2F;</a></li><li>Jupyter Notebooks for introductory Python <a href="https&#x3a;&#x2F;&#x2F;github&#x2e;com&#x2F;CambridgeEngineering&#x2F;PartIA&#x2d;Computing&#x2d;Michaelmas">https:&#x2F;&#x2F;github.com&#x2F;CambridgeEngineering&#x2F;PartIA-Computing-Michaelmas</a></ol><li>More OpenTechSchool materials: <a href="https&#x3a;&#x2F;&#x2F;learn&#x2e;opentechschool&#x2e;org&#x2F;">https:&#x2F;&#x2F;learn.opentechschool.org&#x2F;</a>&nbsp;</ol><li><strong>Additional resources - and tips</strong><ol class="number"><li>&quot;Todxs cuentan: building community and welcoming humanity from the first day of class.&quot; by Federico Ardila&#8211;Mantilla - <a href="https&#x3a;&#x2F;&#x2F;arxiv&#x2e;org&#x2F;pdf&#x2F;2008&#x2e;02835&#x2e;pdf">https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2008.02835.pdf</a></li><li>Jupyter Notebook spell checking add-on</li><li>Spellchecker and language styling -&gt; <a href="https&#x3a;&#x2F;&#x2F;grammarly&#x2e;com&#x2F;">https:&#x2F;&#x2F;grammarly.com&#x2F;</a> (not open, but has a free version)</li><li>Take it to twitter for inspiration! ;)&nbsp;</li><li>Jupyter Books: <a href="https&#x3a;&#x2F;&#x2F;jupyterbook&#x2e;org&#x2F;intro&#x2e;html">https:&#x2F;&#x2F;jupyterbook.org&#x2F;intro.html</a></li><li>Github Classroom <a href="https&#x3a;&#x2F;&#x2F;classroom&#x2e;github&#x2e;com&#x2F;">https:&#x2F;&#x2F;classroom.github.com&#x2F;</a>&nbsp;</li><li>nb grader: Jupyter Notebook auto-grader<ol class="number"><li>or: Unit Testing with Travis</ol><li>Open Source Slack alternatives for asynchronous communication: Mattermost, Rocketchat, Discord (not open source!)<ol class="number"><li><a href="https&#x3a;&#x2F;&#x2F;mattermost&#x2e;com&#x2F;">https:&#x2F;&#x2F;mattermost.com&#x2F;</a></li><li><a href="https&#x3a;&#x2F;&#x2F;rocket&#x2e;chat&#x2F;">https:&#x2F;&#x2F;rocket.chat&#x2F;</a></li><li><a href="https&#x3a;&#x2F;&#x2F;discord&#x2e;com&#x2F;">https:&#x2F;&#x2F;discord.com&#x2F;</a> (not open source!)</ol></li></ol></li></ol><br>
+</body>
+</html>

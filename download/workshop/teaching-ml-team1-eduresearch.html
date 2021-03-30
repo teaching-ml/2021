@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>teaching-ml1</title>
+<meta name="generator" content="Etherpad">
+<meta name="author" content="Etherpad">
+<meta name="changedby" content="Etherpad">
+<meta charset="utf-8">
+<style>
+* {
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+}
+ul.indent {
+  list-style-type: none;
+}
+ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+body > ol {
+  counter-reset: first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth thirteenth fourteenth fifteenth sixteenth;
+}
+ol > li:before {
+  content: counter(first) ". ";
+  counter-increment: first;
+}
+ol > ol > li:before {
+  content: counter(first) "." counter(second) ". ";
+  counter-increment: second;
+}
+ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) ". ";
+  counter-increment: third;
+}
+ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) ". ";
+  counter-increment: fourth;
+}
+ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) ". ";
+  counter-increment: fifth;
+}
+ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) ". ";
+  counter-increment: sixth;
+}
+ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) ". ";
+  counter-increment: seventh;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) ". ";
+  counter-increment: eighth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) ". ";
+  counter-increment: ninth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) ". ";
+  counter-increment: tenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) ". ";
+  counter-increment: eleventh;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) ". ";
+  counter-increment: twelfth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) ". ";
+  counter-increment: thirteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) ". ";
+  counter-increment: fourteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) "." counter(fifteenth) ". ";
+  counter-increment: fifteenth;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > li:before {
+  content: counter(first) "." counter(second) "." counter(third) "." counter(fourth) "." counter(fifth) "." counter(sixth) "." counter(seventh) "." counter(eighth) "." counter(ninth) "." counter(tenth) "." counter(eleventh) "." counter(twelfth) "." counter(thirteenth) "." counter(fourteenth) "." counter(fifteenth) "." counter(sixteenth) ". ";
+  counter-increment: sixteenth;
+}
+ol {
+  text-indent: 0px;
+}
+ol > ol {
+  text-indent: 10px;
+}
+ol > ol > ol {
+  text-indent: 20px;
+}
+ol > ol > ol > ol {
+  text-indent: 30px;
+}
+ol > ol > ol > ol > ol {
+  text-indent: 40px;
+}
+ol > ol > ol > ol > ol > ol {
+  text-indent: 50px;
+}
+ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 60px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 70px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 80px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 90px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 100px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 110px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 120px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 130px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 140px;
+}
+ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol > ol {
+  text-indent: 150px;
+}
+
+</style>
+</head>
+<body>
+<strong>Education Research</strong><br><strong>What are research projects you know of?</strong><br><ul class="bullet"><li>In stats there is a lot of research, e.g. <a href="http&#x3a;&#x2F;&#x2F;iase&#x2d;web&#x2e;org&#x2F;documents&#x2F;SERJ&#x2F;SERJ17&#x28;2&#x29;&#x5f;Ziegler&#x2e;pdf&#x3f;1558986206">http:&#x2F;&#x2F;iase-web.org&#x2F;documents&#x2F;SERJ&#x2F;SERJ17(2)_Ziegler.pdf?1558986206</a>;&nbsp;</li><li>Literacy-Model (Bauer &amp; Hefendehl-Hebeker 2019): <a href="https&#x3a;&#x2F;&#x2F;link&#x2e;springer&#x2e;com&#x2F;chapter&#x2F;10&#x2e;1007&#x2F;978&#x2d;3&#x2d;658&#x2d;26682&#x2d;0&#x5f;2">https:&#x2F;&#x2F;link.springer.com&#x2F;chapter&#x2F;10.1007&#x2F;978-3-658-26682-0_2</a><ul class="bullet"><li>Everyday Literacy (Knowledge based on personal and communal experience)</li><li>Applied Literacy (Skill-based Literacy: Using a specific skill of know-how, based on acquired expertise)</li><li>Theoretical Literacy (Disciplinary knowledge)</li><li>Reflexive Literacy (Probing assumed and specialized knowledge systems)</li><li>-&gt; Translate to statistical&#x2F;data&#x2F;ML&#x2F;ethics literacy</ul><li>Example for large assesment: <a href="http&#x3a;&#x2F;&#x2F;www&#x2e;isi&#x2d;stats&#x2e;com&#x2F;isi&#x2F;presentations&#x2F;ICOTS2018&#x2d;1&#x2e;pdf">http:&#x2F;&#x2F;www.isi-stats.com&#x2F;isi&#x2F;presentations&#x2F;ICOTS2018-1.pdf</a></li><li>Framework &#x2F; Kompetenzmatrix f&#252;r Data Literacy: <a href="https&#x3a;&#x2F;&#x2F;www&#x2e;stifterverband&#x2e;org&#x2F;download&#x2F;file&#x2F;fid&#x2F;9278">https:&#x2F;&#x2F;www.stifterverband.org&#x2F;download&#x2F;file&#x2F;fid&#x2F;9278</a></li><li>Literacy <u>in CS </u><a href="https&#x3a;&#x2F;&#x2F;www&#x2e;youtube&#x2e;com&#x2F;watch&#x3f;v&#x3d;CS3j6Wtdus4&amp;t&#x3d;141s"><u>https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CS3j6Wtdus4&amp;t=141s</u></a>&nbsp;</ul><br><br><strong>What are research projects that could be done?</strong><br><ul class="bullet"><li>Depends a lot on target audience</li><li>What are the key concepts students should know?</ul><br><br><strong>Developing a questionaire for students to discover the pedagogical content knowledge (PCK) necessary for teaching concepts in machine learning.</strong><br><strong>(See also </strong><a href="https&#x3a;&#x2F;&#x2F;twitter&#x2e;com&#x2F;HeidiBaya&#x2F;status&#x2F;1303675224379056130"><strong>https:&#x2F;&#x2F;twitter.com&#x2F;HeidiBaya&#x2F;status&#x2F;1303675224379056130</strong></a><strong> )</strong><br><a href="https&#x3a;&#x2F;&#x2F;medium&#x2e;com&#x2F;bits&#x2d;and&#x2d;behavior&#x2F;we&#x2d;need&#x2d;to&#x2d;learn&#x2d;how&#x2d;to&#x2d;teach&#x2d;machine&#x2d;learning&#x2d;acc78bac3ff8">https:&#x2F;&#x2F;medium.com&#x2F;bits-and-behavior&#x2F;we-need-to-learn-how-to-teach-machine-learning-acc78bac3ff8</a><br><ul class="bullet"><li>Discussion on &quot;knowledge of which concepts in machine learning are difficult and why&quot; -&gt; who could know that? Teachers? What questions do we need to aks?</li><li>Step 1: what are topics that come up in every class?</li><li>What common pitfalls do you encounter?</li><li></ul><br><strong>Which topics are often overlooked when teaching ml?&nbsp;</strong><br><br><br><br><br><strong>Competence Definition for Machine learning</strong><br><br><br><strong><u>Fields of competence (different levels of depth apply to all):</u></strong><br><ul class="bullet"><li><strong>Everyday literacy (Knowledge based on personal and communal experience)</strong><ul class="bullet"><li>What is ML? What does it have to do with AI?</li><li>What do the buzz words (big data, AI, ...) mean?</li><li>What can ML do? What can it not do (or is not useful for)? What is ML used for in practice?</li><li>Can ML be helpful for my problem&#x2F;my data?</li><li>What are good&#x2F;useful data? What are potential data problems? (Questioning data)</li><li>What are ethical issues of ML?</ul></li></ul><br><ul class="bullet"><li><strong>Applied literacy (Skill-based Literacy: Using a specific skill of know-how, based on acquired expertise)</strong><ul class="bullet"><li>How to apply ML in practice with data?</li><li>How to make decisions based on data &#x2F; ML results?</li><li>Key concepts of ML&nbsp;<ul class="bullet"><li>supervised &#x2F; unsupervised</li><li>basic algorithms &#x2F; methods</li><li>evaluation (cv, etc)</ul><li>Running ML pipelines on computer</ul></li></ul><br><ul class="bullet"><li><strong>Theoretical literacy (Disciplinary knowledge)</strong><ul class="bullet"><li>Mathematical, statistical and computational background of the methods</li><li>Connection between different concepts&#x2F;methods</li><li>Open questions in ML research</li><li>Adapt + implement algorithms in code</ul></li></ul><br><ul class="bullet"><li><strong>Reflexive Literacy (Probing assumed and specialized knowledge systems)</strong><ul class="bullet"><li>What is the reason for (not) ML?</li><li>What are limitations of ML&#x2F;methods?</li><li>When does what (not) work?</li><li>What is the effect of ML&#x2F;research on society?</li><li>What are the responsibilities of a machine learner?</ul></li></ul><br><br>TODO:&nbsp;<br><ul class="bullet"><li>Extend + improve framework with ideas from others.</li><li>Define competencies needed for the framework above.</li><li>Do the points from &quot;everyday literacy&quot; have to come up in the higher literacy levels as well?</ul><br><br><br><br><br><strong>Everyday Literacy&nbsp;&nbsp;</strong><br><ul class="bullet"><li>Diese Stufe betrifft Wissen aus der Alltagserfahrung, &#8222;based on personal and communal experience&#8220; (Macken-Horarik, a. a. O.). In unserer mathematikbezogenen Version des Modells fassen wir darunter diejenigen Elemente der Mathematik, die im Alltag sichtbar vorkommen und deren Beherrschung f&#252;r eine gesellschaftliche Teilhabe wichtig ist. (Es gibt dar&#252;ber hinaus einen gro&#223;en Bereich von Mathematik, der auf unsichtbare Weise in unserer technisierten Welt vorkommt. Diese Mathematik meinen wir hier nicht, denn sie ist zwar h&#246;chst alltagsrelevant, stellt aber kein Alltagswissen des Individuums dar, das hier Mathematik nur indirekt nutzt &#8211; vielleicht sogar, ohne sich dessen im Detail bewusst zu sein). Zur Mathematik auf der Stufe der Everyday Literacy geh&#246;ren in unserer Auffassung u. a.<ul class="bullet"><li>elementares Rechnen wie Bruchrechnung und Prozentrechnung,</li><li>elementares logisches Schlie&#223;en,</li><li>elementargeometrische Kenntnisse aus der Figuren- und Inhaltslehre,</li><li>ein Verst&#228;ndnis f&#252;r Wahrscheinlichkeiten und</li><li>eine allgemeine &#8222;Lese- und Interpretationsf&#228;higkeit&#8220; (vgl. Vohns 2018) f&#252;r mathematische und mathematikhaltige Darstellungen, wie z. B. Tabellen, Funktionsgraphen, statistische Grafiken und Prozentangaben.</ul><li></ul><br><strong>Applied Literacy</strong><br><ul class="bullet"><li>Wissen auf dieser Stufe ist an den Zweck einer bereits spezialisierten Verwendung gebunden. Macken-Horarik (a. a. O.) charakterisiert sie als &#8222;using a specific skill or &#8218;know-how&#8216;, based on acquired expertise&#8220;, Brabazon (a. a. O.) spricht von &#8222;skill-based literacy&#8220;. Auf die Mathematik bezogen fassen wir hierunter das Wissen, mit dem sich die Mathematik gegen&#252;ber anderen Disziplinen (z. B. den Ingenieurwissenschaften) darstellt und ihnen Werkzeuge zur L&#246;sung bestimmter Aufgaben liefert. In der Mathematikausbildung betonen wir diese Literacy-Stufe, wenn etwa in &#220;bungs- und Pr&#252;fungsaufgaben zur Analysis und Linearen Algebra Fertigkeiten der folgenden Art gefordert werden:<ul class="bullet"><li>Berechne die Ableitung der folgenden Funktion: &#8230;&nbsp;</li><li>Bestimme die Extrema der Funktion f: &#8230;&nbsp;</li><li>Bestimme das Monotonieverhalten der Funktion f: &#8230;&nbsp;</li><li>L&#246;se das Gleichungssystem &#8230;</li><li>Diagonalisiere die Matrix A = &#8230;</ul><li>Die Anforderung besteht hier jeweils darin, mit einem geeigneten Verfahren Informationen &#252;ber ein mathematisches Objekt zu erhalten. In au&#223;ermathematischen Anwendungssituationen sind solche Informationen oft relevant, w&#228;hrend die zugrunde liegende Theorie eher im Hintergrund bleibt.</li><li></ul><br><strong>Theoretical Literacy</strong><br><ul class="bullet"><li>Dies ist die Stufe des disziplin&#228;ren Wissens. Wir fassen hierunter Wissen, wie es die Mathematik etwa in publizierten Arbeiten und Monografien explizit darstellt. In der Mathematikausbildung (z. B. in &#220;bungs- und Pr&#252;fungsaufgaben) wird diese Literacy-Stufe angesprochen, wenn es um das Verstehen von Definitionen, S&#228;tzen und Beweisen geht oder wenn Beziehungen hergestellt und begr&#252;ndet werden. Die Beantwortung von Fragen folgenden Typs erfordert Theoretical Literacy:<ul class="bullet"><li>Wie ist der Begriff der Differenzierbarkeit definiert? Welche Differenzierbarkeitsbegriffe unterscheidet man bei Funktionen von mehreren Ver&#228;nderlichen? In welchem Zusammenhang stehen diese Begriffe? Wie kann man beweisen, dass Verkettungen differenzierbarer Funktionen wieder differenzierbar sind?</li><li>Was versteht man unter Riemann-Integrierbarkeit? Welche Eigenschaften hat dieser Begriff? Wie kann man zeigen, dass stetige Funktionen Riemann-integrierbar sind? Welche Beispiele f&#252;r Funktionen kennen Sie, die nicht Riemann-integrierbar sind? Wie unterscheidet sich die Riemann-Integrierbarkeit hier von anderen Integrierbarkeitsbegriffen?</li><li>Was besagt der Zwischenwertsatz? Wie kann man ihn beweisen?</ul><li></ul><br><br><strong>Reflexive Literacy</strong><br><ul class="bullet"><li>Diese oberste Stufe (bei Brabazon u. a. als &#8222;probing assumed and specialized knowledge systems&#8220; charakterisiert) interpretieren wir f&#252;r die Mathematik als den Bereich, in dem es um das (oft implizite) Wissen &#252;ber die Arbeitsweisen und Gepflogenheiten in der Disziplin geht, das innerhalb der Fachgemeinschaft weitergegeben wird. Die Anforderung liegt hier darin, das Wissenssystem der Disziplin als solches mit seinen internen Regulierungen und handlungsleitenden Normen zu verstehen: Was will die Disziplin? Wie geht sie vor, um ihre Ziele zu erreichen? Warum wird so vorgegangen?</li><li>Das &#8222;Durchschauen&#8220; des Getriebes beinhaltet also [...], dass die Studierenden die Kontingenz mathematischer Definitionen erkennen und dass sie Werturteile &#252;ber mathematische Resultate f&#228;llen k&#246;nnen. Genau dies sind F&#228;higkeiten, die auch diejenigen ben&#246;tigen, die in der mathematischen Forschung arbeiten &#8211; es sind handlungsleitende Elemente jeder kreativen mathematischen Arbeit. Man erkennt hieran, dass die Stufe der Reflexive Literacy nicht eine Perspektive auf Mathematik meint, die gleichsam &#8222;von au&#223;en&#8220; aus unbeteiligter Position auf mathematisches Arbeiten gerichtet wird, sondern dass es vielmehr um eine zentrale Anforderung an professionell Mathematiktreibende geht &#8211; sie betrifft den Kern der Disziplin.</li><li>Seaman und Szydlik (2007) stellen einen &#252;berzeugenden Bezug her zwischen dem Wissen um professionelle Vorgehensweisen von Mathematikern und dem Erfolg von Studierenden bei Aufgaben sowohl zum prozeduralen als auch zum konzeptuellen Wissen. Basierend auf einer Studie, die sie mit Lehramtsstudierenden durchgef&#252;hrt haben, kommen die Autoren zu dem Schluss, dass sich die erfolgreicheren Teilnehmer von den weniger erfolgreichen in ihrem mathematischen Verhalten und ihren mathematikbezogenen Wertvorstellungen signifikant unterscheiden. Die Unterschiede erfassen Seaman und Szydlik in ihrem Framework der Mathematical Sophistication. Ins Deutsche &#252;bertragen und in drei Bereiche gruppiert lassen sich die damit verbundenen Z&#252;ge mathematischen Verhaltens in Kurzform so darstellen (vgl. Bauer 2017):<ul class="bullet"><li>Was Mathematiker zu erreichen suchen: Sie versuchen, Regelm&#228;&#223;igkeiten und Beziehungen zwischen mathematischen Objekten zu verstehen und Analogien zwischen S&#228;tzen, Beweisen, Theorien zu finden.</li><li>Wie sie mit mathematischen Objekten umgehen: Sie schaffen daf&#252;r mentale Modelle, symbolische Darstellungen sowie Beispiele und Gegenbeispiele. Sie stellen Vermutungen &#252;ber sie auf und testen diese.</li><li>Wie sie sich Gewissheit verschaffen: Sie sch&#228;tzen pr&#228;zise Sprache und die feinen Unterscheidungen, die sie erm&#246;glicht. Sie nutzen pr&#228;zise Definitionen, um Bedeutung zu schaffen, und verwenden logische Argumente und Gegenbeispiele, um zu &#252;berzeugen.</ul><li>Wir geben einige Beispiele f&#252;r Fragen auf der reflexiven Stufe &#8211; in jedem Fall erfordert es Wissen und Erfahrungsreichtum oberhalb der theoretischen Stufe, um sie beantworten zu k&#246;nnen:<ul class="bullet"><li>Wie w&#252;rde in dieser mathematischen Situation ein &#8222;nat&#252;rlicher&#8220; Satz lauten? (genuine Fragestellungen des Fachs)</li><li>Kann man hoffen, dass er wahr ist? (Fachbezogene Intuition)</li><li>W&#228;re das n&#252;tzlich? W&#228;re das sch&#246;n? (Werte und &#196;sthetik des Fachs)</li><li>Was k&#246;nnte man versuchen, um den erhofften Satz zu beweisen? (Heuristische F&#228;higkeiten)</li><li>W&#228;re es der M&#252;he wert, dar&#252;ber nachzudenken&#x2F;daran zu arbeiten?</ul><li></ul><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
