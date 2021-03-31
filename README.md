@@ -1,6 +1,6 @@
-# Teaching Machine Learning at ECML-PKDD 2020
+# Teaching Machine Learning at ECML-PKDD 2021
 
-This is the website for the workshop Teaching Machine Learning at ECML PKDD 2020.
+This is the website for the workshop Teaching Machine Learning at ECML PKDD 2021.
 
 ## How do I update the website?
 
