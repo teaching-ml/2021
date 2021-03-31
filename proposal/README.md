@@ -1,6 +1,6 @@
-# ECML2020 teachML workshop
+# ECML2021 teachML workshop
 
-This repo tries to serve as a central hub to draft for a ECML2020 workshop submission on teaching methods for ML. 
+This folder tries to serve as a central hub to draft for a ECML2021 workshop submission on teaching methods for ML. 
 
 See [this link](https://gitlab.com/psteinb/icml2020-teachml-workshop/-/jobs/artifacts/master/browse?job=compile_pdf) to obtain the latest pdf version of this draft. A zip file containing this pdf is available [here](https://gitlab.com/psteinb/icml2020-teachml-workshop/-/jobs/artifacts/master/browse?job=compile_pdf).
 
@@ -14,15 +14,17 @@ Besides any of the above, constructive feedback is highly welcome. Please open a
 
 ## What We need to submit
 
-According to the [ECML2020 Workshop page](https://icml.cc/Conferences/2020/CallForWorkshops), the submission document should include:
+According to the [ECML2021 Workshop page](https://2021.ecmlpkdd.org/?page_id=1603), the submission document should include:
 
-> * Workshop title
-> * A brief description of the topics to be covered, and an explanation as to why the workshop will appeal to ECML audiences
-> * A short description and rough timetable of the planned activities (talks, posters, panels)
-> * List of invited speakers, specifying who is confirmed and who is unconfirmed.
-> * A description of the history of the workshop (if it previously took place then when/where)
-> * Similar past and current events at ECML and NeurIPS in the last 1-2 years, even if not organised by the present workshop organisers. New workshops are welcome to build on prior workshops, if a good case is made; completely original workshops are also welcome.
-> * A list of organizers with email addresses, web page URLs, pointers to Google Scholar or other similar citation service pages, and a one-paragraph bio for each organizer, describing research expertise, and previous experience organizing scientific meetings.
+> Workshop proposals should contain the necessary information for the workshop chairs and reviewers to judge the importance, quality, and community interest in the proposed topic (a minimum of 20-30 expected participants is required). Each workshop should have two or more designated organisers and a program. When proposing a workshop, please provide (at least) the following information:
+> 
+> * A brief description of the specific topics that the workshop will address, the reasons why the workshop is of interest, the main research areas involved, and what the workshop will add to the conference.
+> * Contact information of the workshop chairs, their competence in the proposed topic(s), and previous experience in chairing scientific events. 
+> * A tentative list of Program Committee members and potential invited speakers.
+> * A draft of the Call for Papers, including information on accepted formats (e.g., regular papers, extended abstracts, oral-only presentations of relevant recently published or submitted contributions, etc.) and expected format of the workshop (e.g., invited talks, presentations, poster sessions, panel discussions, challenge sessions, or other ideas for ensuring an interactive atmosphere). In the case of a combined tutorial-workshop, please clearly indicate the format.
+> * Any special requirements regarding logistics (e.g., poster stands, audio equipment), if applicable.
+> * An estimate of the number of expected submissions, and an estimate of the number of expected workshop participants at the conference. Proof of interest from the community will be of added value to the proposal.
+> * If you are making a proposal for a tutorial+workshop event, we kindly ask you to write a single proposal that covers both. In addition, the links should be clearly described and the proposal should be submitted to the workshop and tutorial chairs (select ‘Workshop and Tutorial’ as the topic on Easychair). For tutorial guidelines, please see the separate Call For Tutorial Proposals.
 
 Regarding the format, the following is expected:
 
