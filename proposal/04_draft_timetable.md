@@ -1,6 +1,6 @@
 ## Tentative Timetable
 
-We aim for a workshop to last one full day. The table below lists a tentative agenda as well as the speakers that already signalled their participation either in person or through a remote connection.
+We aim for a workshop to last one full day. The table below lists a tentative agenda.
 
 | time     | Title                                       | Speaker    |
 | --:      | :--                                         | :--        |
@@ -17,4 +17,4 @@ We aim for a workshop to last one full day. The table below lists a tentative ag
 | 6.00 pm  | Farewell and Next Steps                     | Organizers |
 | 6.30 pm  | End                                         |            |
 
-During the edition of 2020, we split this agenda into two parts that we delivered within one weeks time difference. This separation was well received by participants to not fall victim of zoom fatique.
+The 2020 edition of this workshop was conducted purely virtually. During the edition of 2020, we split this agenda into two parts that we delivered within one weeks time difference. This separation was well received by participants to not fall victim of zoom fatique. We expect that in 2021 we will have to consider following this model.

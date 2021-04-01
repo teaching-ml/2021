@@ -1,4 +1,4 @@
-## Authors
+## Workshop Chairs
 
 ### Peter Steinbach
 
@@ -12,7 +12,7 @@
 
 **webpage**: [team homepage](https://www.hzdr.de/db/Cms?pOid=60710&pNid=5)
 
-Peter received his PhD in Particle Physics in 2012 from the [TU Dresden](https://tu-dresden.de) for an experimental study of LHC data using the ATLAS experiment to reduce background contributions to Higgs Particle searches. He continued to industry as a HPC support and software engineer helping scientists push the limits of their applications in a service oriented group. In this role, he become increasingly exposed to Deep Learning applications for vision applications in biology. In 2019, he started to lead a group of AI consultants that aims to help scientists from the research field matter at [Helmholtz society](https://www.helmholtz.de/) to use machine learning in experiment and theory.
+Peter received his PhD in Particle Physics in 2012 from the [TU Dresden](https://tu-dresden.de) for an experimental study of LHC data using the ATLAS experiment to reduce background contributions to Higgs Particle searches. He continued to industry as a HPC support and software engineer helping scientists push the limits of their applications in a service oriented group. In this role, he become increasingly exposed to Deep Learning applications for vision applications in biology. In 2019, he started to lead a group of AI consultants that aims to help scientists from the research field matter at [Helmholtz society](https://www.helmholtz.de/) to use machine learning in experiment and theory. Peter has substantial experience from organizing workshops and hackathons. The 2020 edition of the teaching ML workshop marks a special example of this.
 
 
 ### Oliver Guhr
@@ -25,7 +25,7 @@ Peter received his PhD in Particle Physics in 2012 from the [TU Dresden](https:/
 
 **country/region**: Germany
 
-**webpage**: 
+**webpage**: https://www.oliverguhr.eu/
 
 Oliver received a bachelor degree in business informatics in 2014 (HfT Leipzig) and holds a master degree in computer science since 2018 (HTW Dresden). From 2007 to 2018 he was working as a software engineer in the sector of information and communication technology. In 2018 he became a research fellow at the HTW Dresden in the department of artificial intelligence.
 His research focuses on Spoken Dialogue Systems, Machine Learning, and Natural Language Processing. He also teaches the Natural Language Processing part of the Deep Learning course at HTW Dresden.
@@ -34,11 +34,18 @@ Oliver took part in the organization of several conferences. From 2015 to 2017 h
 
 ### Katherine Kinnaird
 
-**contact**: 
+**contact**: [kkinnaird@smith.edu](mailto:kkinnaird@smith.edu)
 
-**organisation**: 
+**organisation**: Department of Computer Science, and Statistical & Data Sciences Program, Smith College
 
-**job**: 
+**job**: Clare Boothe Luce Assistant Professor
+
+**country/region**: Northampton, MA, USA
+
+**webpage**: https://www.smith.edu/academics/faculty/katherine-kinnaird
+
+
+Katherine M. Kinnaird is a computational researcher working at the intersection of machine learning, mathematics and cultural analytics. The central driving force behind her work is the building and supporting of authentic bridges between statistics, mathematics, machine learning and music information retrieval, as well as other disciplines like biology, human computer interaction and literature. Her research program builds a methodology for comparing high-dimensional sequential data that can be broadly applied to many questions from a range of fields, such as comparing musical songs.
 
 
 ## Supporters
