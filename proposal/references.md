@@ -1,5 +1,5 @@
 ## References
 
-This is a placeholder in case we want to add a bibliography of some sort. For now, it summarizes markdown links which are not yet rendered to the pdf. See the raw content of [references.md](references.md) for details.
+The proceedings of 2020 were published in the open-access journal PMLR. They can be viewed on [the journals homepage](http://proceedings.mlr.press/v141/).
 
 [cdh]: https://cdh.carpentries.org/
