@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Teaching Machine Learning Workshop at ECML-PKDD 2020"
-baseurl: "/2020" # the subpath of your site, e.g. /blog
+title: "Teaching Machine Learning Workshop at ECML-PKDD 2021"
+baseurl: "/2021" # the subpath of your site, e.g. /blog
 url: "https://teaching-ml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github: "https://github.com/teaching-ml/2020/"
+github: "https://github.com/teaching-ml/2021/"
 
 kramdown:
   parse_block_html: true

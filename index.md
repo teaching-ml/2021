@@ -1,6 +1,6 @@
 ---
 layout: index
-title: 'Teaching ML @ ECML-PKDD 2020'
+title: 'Teaching ML @ ECML-PKDD 2021'
 ---
 
 ## Content
