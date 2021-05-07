@@ -61,7 +61,9 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 - June 23, 2021: Submission Deadline (no submissions past this date)
 - July 21, 2021: Paper Confirmations
 
-Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
+Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
+
+**Call for Reviewers:** If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
 
 
 ## Questions, Concerns or Feedback
