@@ -63,7 +63,7 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
 
-**Call for Reviewers:** If you'd like to help out reviewing papers, please let us know and open an issue [here](repo) or [contact us](mailto:p.steinbach@hzdr.de).
+**Call for Reviewers:** If you'd like to help out reviewing papers, please let us know and open an issue [here](https://github.com/teaching-ml/2021/issues) or [contact us](mailto:p.steinbach@hzdr.de).
 
 
 ## Questions, Concerns or Feedback
