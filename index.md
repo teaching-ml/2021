@@ -53,6 +53,10 @@ Additional materials (e.g. proofs, audio, images, video, data, or source code) c
 
 We strive to pursue a double-blind review process. All papers need to be ‘best-effort’ anonymized. We strongly encourage to also make code and data available anonymously (e.g., in an anonymous git repository or Dropbox folder). It is allowed to have a (non-anonymous) pre-print online, but it should not be cited in the submitted paper to preserve anonymity. Reviewers will be asked not to search for them.
 
+### Paper Submission
+
+We invite interested authors to submit their article on openreview.net [here](https://openreview.net/group?id=ecmlpkdd.org/ECMLPKDD/2021/Workshop/TeachML).
+
 ### Paper Reviews
 
 We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
