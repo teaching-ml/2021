@@ -15,7 +15,7 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 * Jul 21, 2021: Paper decisions
 * Aug 18, 2021: Camera ready due
 * Sep 01, 2021: all papers online
-* Sep 06, 2021: satellite event
+* Sep 08, 2021: satellite event
 * Sep 13, 2021: day of the workshop (paper presentations and discussion)
 
 ## About this workshop
