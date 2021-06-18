@@ -15,14 +15,14 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 * Jul 21, 2021: Paper decisions
 * Aug 18, 2021: Camera ready due
 * Sep 01, 2021: all papers online
-* Sep 08, 2021: satellite event
-* Sep 13, 2021: day of the workshop (paper presentations and discussion)
+* Sep 08, 2021: satellite event **virtual** 
+* Sep 13, 2021: day of the workshop (paper presentations and discussion) **virtual** 
 
 ## About this workshop
 
 Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
 
-With our workshop, we want to start an academic discussion on best practices. We would like to help improve existing material as a community and make conceiving new material more effective. We are very happy that this idea was approved for [ECML PKDD 2021](https://2021.ecmlpkdd.org/?page_id=1705) workshop programme.
+With our workshop, we want to start an academic discussion on best practices. We would like to help improve existing material as a community and make conceiving new material more effective. We are very happy that this idea was approved for [ECML PKDD 2021](https://2021.ecmlpkdd.org/?page_id=1705) workshop programme. Like ECML PKDD 2021, Teaching ML 2021 will be a **virtual** event.  
 
 ## Motivation
 
