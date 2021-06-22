@@ -11,7 +11,7 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 ## Important dates
 
 * May 05, 2021: Paper submissions open
-* Jun 23, 2021: Paper submissions due
+* Jun 25, 2021: Paper submissions due **Deadline extended**
 * Jul 21, 2021: Paper decisions
 * Aug 18, 2021: Camera ready due
 * Sep 01, 2021: all papers online
@@ -62,7 +62,7 @@ We invite interested authors to submit their article on openreview.net [here](ht
 We will conduct an open double-blinded peer-review using [openreview.net](https://openreview.net) on all contributions and select contributions based on the reviewers' feedback. Here are the important dates:
 
 - May 5, 2021: Submission opens
-- June 23, 2021: Submission Deadline (no submissions past this date)
+- June 25, 2021: Submission Deadline **Deadline extended** (no submissions past this date) 
 - July 21, 2021: Paper Confirmations
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
