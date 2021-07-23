@@ -67,8 +67,29 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
 
-**Call for Reviewers:** If you'd like to help out reviewing papers, please let us know and open an issue [here](https://github.com/teaching-ml/2021/issues) or [contact us](mailto:p.steinbach@hzdr.de).
 
+### Reviewers
+
+We are extremely grateful for the group of volunteers that make this event happen by providing their reviews to submitted papers:
+
+- Claudia A. Engel (Stanford)
+- Melody Su (Mount Holyoke College)
+- Carola Gajek (University of Augsburg)
+- Lukas Heinrich (CERN)
+- Colin Sauze (Prifysgol Aberystwyth University)
+- David Rousseau (National institute of nuclear and particle physics, IN2P3)
+- Sebastian Starke (HZDR)
+- Steve Schmerler (HZDR)
+- Ludwig Bothmann (University of Munich)
+- John Laudun (US Army Combined Arms Center)
+- Sinead Williamson (University of Texas)
+- Patrick Glauner (Deggendorf Institute of Technology)
+- Jonathan Heras (Universidad de la rioja)
+- Matias Valdenegro (German Research Center for Artificial Intelligence, DFKI)
+- Mike Trizna (Smithsonian Institute)
+- Guillaume Muller (Université Jean Monnet Saint-Etienne)
+- Martin Palazzo (Universidad Tecnológica Nacional Facultad Regional Buenos Aires)
+- Thiemo Leonhardt (TU Dresden)
 
 ## Questions, Concerns or Feedback
 
