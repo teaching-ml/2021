@@ -22,21 +22,22 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 
 ### Preface Satellite Event - September 8, 2021
 
-| Time/CEST | Title                                                        | Speaker                                                      |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2:00 pm   | TBA                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
-| 3:00 pm   | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
-| 4:00 pm   | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
-| 5:00 pm   | Wrap up                                                      |                                                              |
+| Time/CEST                                                    | Title                                                        | Speaker                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | TBA                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
+| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
+| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                      |                                                              |
 
 ### Schedule for workshop Day Sep 13, 2021
 
 | Time/CEST | Title   |
 | --------- | ------- |
-| 2:30 - 2:45 pm | Welcome        |
-| 2:45 - 3:45 pm | Community connect |
-| 4:00 - 5:00 pm | Workshop discussions |
-| 5:00 - 5:30 pm | Wrap up |
+| [2:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1430) - 2:45 pm | Welcome        |
+| [2:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1445) - 3:45 pm | Community connect |
+| [4:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1400) - 5:00 pm | Workshop discussions |
+| [5:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1500) - 5:30 pm | Wrap up |
+
 
 
 ## About this workshop
