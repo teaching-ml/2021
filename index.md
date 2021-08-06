@@ -20,6 +20,9 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 
 ## Programme
 
+This workshop is planned as an online event. For both events we will use [Zoom](https://zoom.com) as our online conference service. 
+We will publish the conference link on this website before the event.
+
 ### Preface Satellite Event - September 8, 2021
 
 | Time/CEST                                                    | Title                                                        | Speaker                                                      |
@@ -29,7 +32,7 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
 | [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                      |                                                              |
 
-### Schedule for workshop Day Sep 13, 2021
+### Schedule for workshop Day September 13, 2021
 
 | Time/CEST | Title   |
 | --------- | ------- |
