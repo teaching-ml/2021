@@ -18,6 +18,27 @@ title: 'Teaching ML @ ECML-PKDD 2021'
 * Sep 08, 2021: satellite event **virtual** 
 * Sep 13, 2021: day of the workshop (paper presentations and discussion) **virtual** 
 
+## Programme
+
+### Preface Satellite Event - September 8, 2021
+
+| Time/CEST | Title                                                        | Speaker                                                      |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2:00 pm   | TBA                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
+| 3:00 pm   | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
+| 4:00 pm   | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
+| 5:00 pm   | Wrap up                                                      |                                                              |
+
+### Schedule for workshop Day Sep 13, 2021
+
+| Time/CEST | Title   |
+| --------- | ------- |
+| 2:30 - 2:45 pm | Welcome        |
+| 2:45 - 3:45 pm | Community connect |
+| 4:00 - 5:00 pm | Workshop discussions |
+| 5:00 - 5:30 pm | Wrap up |
+
+
 ## About this workshop
 
 Machine Learning based approaches have become ubiquitous in many areas of society, industry and academia. Understanding what Machine Learning (ML) is providing and reproducing what it infers, has become an essential prerequisite for adoption. In this line of thought, course materials, introductory media and lecture series of a broad variety, depth, and quality are public availability. To this date and the best our knowledge, there is no structured approach to collect and discuss best practices in teaching Machine Learning. This workshop strives to change this. 
