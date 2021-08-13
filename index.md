@@ -72,6 +72,9 @@ just the classroom; all while (3) being ourselves.
 | [5:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1500) - 5:30 pm | Wrap up |
 
 
+#### Video Conference Details
+
+The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
 
 ## About this workshop
 
