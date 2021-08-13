@@ -25,12 +25,13 @@ We will publish the conference link on this website before the event.
 
 ### Preface Satellite Event - September 8, 2021
 
-| Time/CEST                                                    | Title                                                        | Speaker                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | AI Campus - the learning platform for artificial intelligence                                                           | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
-| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
+| Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | AI Campus - the learning platform for artificial intelligence                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)                   |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | TBA                                                                                                                    | [Sorelle Friedler](http://sorelle.friedler.net/)                              |
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
-| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                      |                                                              |
+| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                                                                                |                                                                               |
+
 #### Video Conference Details
 
 The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
