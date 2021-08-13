@@ -27,10 +27,39 @@ We will publish the conference link on this website before the event.
 
 | Time/CEST                                                    | Title                                                        | Speaker                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | TBA                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
+| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) |AI Campus - the learning platform for artificial intelligence                                                           | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
 | [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
 | [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                      |                                                              |
+#### Video Conference Details
+
+The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
+
+#### Cornelia Gamst, AI Campus - the learning platform for artificial intelligence
+
+**Abstract:**
+
+Everybody (well, almost) wants to learn Machine Learning, or Data Science these days. The big online learning platforms already offer a wide variety of options, differing in level, length, depth and also learning formats. But somehow in Germany there still seems to be a missing piece. "AI Campus" wants to fill that gap with specialized courses and learning nuggets for a broad target group: from in depth courses for domain experts to learning nuggets offering a basic understanding of what's behind AI and machine learning for the general public.
+
+In this workshop, we will give a brief demo of learning formats available on AI Campus, discuss our general curriculum framework and we can take a closer look at how we do things in specific courses that are of interest to the audience of the workshop.
+
+
+#### Alicia Johnson, Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom
+
+**Abstract:**
+
+As machine learning educators, we’re trained to translate and
+weave developing “best practices” into our classrooms. For example, we
+might aim to create inclusive courses which center data ethics while
+promoting active learning. Especially since these same ends aren’t always
+embedded in our classroom resources (eg: textbooks), pulling this off can
+require some patchwork and wizardry. In this talk, we’ll discuss Bayes
+Rules! An Introduction to Bayesian Modeling with R (Johnson, Ott, &
+Dogucu), our attempt at: (1) supporting educators in their implementation
+of inclusive, ethical, and active learning practices; and (2) reflecting
+that these goals are critical to the entire machine learning workflow, not
+just the classroom; all while (3) being ourselves.
+
 
 ### Schedule for workshop Day September 13, 2021
 
