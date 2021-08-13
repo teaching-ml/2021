@@ -35,7 +35,7 @@ We will publish the conference link on this website before the event.
 
 The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
 
-#### Cornelia Gamst, AI Campus - the learning platform for artificial intelligence
+#### Cornelia Gamst, Demo of „AI Campus - the learning platform for artificial intelligence“
 
 **Abstract:**
 
