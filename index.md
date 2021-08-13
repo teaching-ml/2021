@@ -27,7 +27,7 @@ We will publish the conference link on this website before the event.
 
 | Time/CEST                                                    | Title                                                        | Speaker                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) |AI Campus - the learning platform for artificial intelligence                                                           | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
+| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | AI Campus - the learning platform for artificial intelligence                                                           | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)  |
 | [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | TBA                                                          | [Sorelle Friedler](http://sorelle.friedler.net/)             |
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
 | [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                      |                                                              |
