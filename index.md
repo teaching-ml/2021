@@ -67,10 +67,11 @@ just the classroom; all while (3) being ourselves.
 
 ### Schedule for workshop Day September 13, 2021
 
-| Time/CEST | Title   |
+| Time/CEST | Topic |
 | --------- | ------- |
-| [2:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1430) - 2:45 pm | Welcome        |
-| [2:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1445) - 3:45 pm | Community connect |
+| [2:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1230) - 2:45 pm | Welcome        |
+| [2:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1245) - 3:45 pm | **Community Connect** <br />During the community connect, participants will have the opportunity to discuss the workshop's papers with the authors. This is a chance to connect over emerging pedagogical practices and philosophies while also building a more robust community of machine learning educators. |
+| [3:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1345) - 4:00 pm | Break |
 | [4:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1400) - 5:00 pm | Workshop discussions |
 | [5:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1500) - 5:30 pm | Wrap up |
 
