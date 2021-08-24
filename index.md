@@ -129,6 +129,91 @@ We will conduct an open double-blinded peer-review using [openreview.net](https:
 
 Each submitted paper will be reviewed publicly by at least two experienced machine learning instructors. 
 
+## Accepted Papers 
+
+### Staying Ahead in the MOOC-Era by Teaching Innovative AI Courses
+*Patrick Glauner*
+
+As a result of the rapidly advancing digital transformation of teaching, universities have started to face major competition from Massive Open Online Courses (MOOCs). Universities thus have to set themselves apart from MOOCs in order to justify the added value of three to five-year degree programs to prospective students. In this paper, we show how we address this challenge at Deggendorf Institute of Technology in ML and AI. We first share our best practices and present two concrete courses including their unique selling propositions: Computer Vision and Innovation Management for AI. We then demonstrate how these courses contribute to Deggendorf Institute of Technology's ability to differentiate itself from MOOCs (and other universities).
+
+### Teaching machine learning through end-to-end decision making
+*Hussain Kazmi*
+
+Advances in machine learning and data science hold the potential to greatly optimize the overall energy sector, and prevent the worst outcomes of anthropogenic climate change. However, despite the urgent need for trained energy data scientists and the presence of a number of technically challenging issues that need to be tackled, the sector continues to suffer from a personnel shortage and remains mired in outdated technology. In many programs, energy engineers continue to graduate without even rudimentary programming skills, let alone knowledge of data science. This paper highlights key findings from an introductory course on machine learning and optimization designed specifically for energy engineering students. The course employs a number of teaching aids, which we hope will be useful for the broader community as well. The course was developed in a pan-European setting, supported by four different European universities as part of a broader roadmap to overhaul energy education.
+
+### Deep Learning Projects from a Regional Council: An Experience Report
+*Jónathan Heras*
+
+Due to the impact of Deep Learning both in industry and academia, there is a growing demand of graduates with skills in this field, and Universities are starting to offer courses that include Deep Learning subjects. Hands-on assignments that teach students how to tackle Deep Learning tasks are an instrumental part of those courses. However, most Deep Learning assignments have two main drawbacks. First, they use either toy datasets, that are useful to teach concepts but whose solutions do not generalise to real problems, or employ datasets that require specialised knowledge to fully understand the problem. Secondly, most Deep Learning assignments are focused on training a model, and do not take into account other stages of the Deep Learning pipeline, such as data cleaning or model deployment. In this work, we present an experience in an Artificial Intelligence course where we have tackled the aforementioned drawbacks by using datasets from the regional council where our University is located. Namely, the students of the course have developed several computer vision and natural language processing projects; for instance, a news classifier or an application to colourise historical images. We share the workflow followed to organise this experience, several lessons that we have learned, and challenges that can be faced by other instructors that try to conduct a similar initiative.  
+
+### An Introduction to AI for GLAM
+*Daniel van Strien, Mark Bell, Nora Rose McGregor, Michael Trizna*
+
+There is a growing interest in utilising Machine Learning (ML) techniques within Galleries, Libraries, Archives and Museums (GLAM), and a corresponding demand for training to enable practitioners to engage confidently in this area. Staff at these institutions are seeking practical knowledge and skills in ML concepts and methods specific to the sector’s work, such as in the curation and collection of heritage collections. In this paper, we discuss the motivations and methods behind ""An Introduction to AI for GLAM" a new Carpentries workshop under development through an international partnership between British Library, Smithsonian Institution, and The National Archives UK. This new workshop aims to introduce GLAM practitioners to the essential conceptual and practical considerations for supporting, participating in and undertaking machine learning-based research and projects within the GLAM sector. 
+
+### Using Matchboxes to Teach the Basics of Machine Learning: an Analysis of (Possible) Misconceptions
+*Erik Marx, Thiemo Leonhardt, David Baberowski, Nadine Bergner*
+
+The idea of chess-playing matchboxes, conceived by Martin Gardner as early as 1962, is becoming more and more relevant in learning materials in the area of AI and Machine Learning. Thus, it can be found in a large number of workshops and papers as an innovative teaching method to convey the basic ideas of reinforcement learning. In this paper the concept and its variations will be presented and the advantages of this analog approach will be shown. At the same time, however, the limitations of the approach are analyzed and the question of alternatives is raised.
+
+### Teaching Deep Learning, a boisterous ever-evolving field
+*Alfredo Canziani*
+
+Machine and deep learning techniques are actively being developed with over 150 papers submitted daily to arXiv, each of which is introducing its own notation. To offer a course that reflects the latest developments of the field and illustrate them in a cohesive and consistent manner, one needs to systematically consume the literature, summarise and standardise it, implement working examples, and deliver a concise and consistent presentation of a given topic. This paper reports all the best practices developed by the author in their last decade of teaching experience.
+
+### Teaching Machine Learning for the Physical Sciences:A summary of lessons learned and challenges
+*Viviana Acquaviva*
+
+This paper summarizes some challenges encountered and best practices established in several years of teaching Machine Learning for the Physical Sciences at the undergraduate and graduate level. I discuss motivations for teaching ML to Physicists, desirable properties of pedagogical materials such as accessibility, relevance, and likeness to real-world research problems, and give examples of components of teaching units.
+
+### Teaching Responsible Machine Learning to Engineers
+*Hilde Jacoba Petronella Weerts, Mykola Pechenizkiy*
+
+With the increasing application of machine learning models in practice, there is a growing need to incorporate ethical considerations in engineering curricula. In this paper, we reflect upon the development of a course on responsible machine learning for undergraduate engineering students. We found that technical material was relatively easy to grasp when it was directly linked to prior knowledge on machine learning. However, it was non-trivial for engineering students to make a deeper connection between real-world outcomes and ethical considerations such as fairness. Moving forward, we call upon educators to focus on the development of realistic case studies that invite students to interrogate the role of an engineer.
+
+### Deeper Learning By Doing: Integrating Hands-On Research Projects Into A Machine Learning Course
+*Sebastian Raschka*
+
+Machine learning has seen a vast increase of interest in recent years, along with an abundance of learning resources. While conventional lectures provide students with important information and knowledge, we also believe that additional project-based learning components can motivate students to engage in topics more deeply. In addition to incorporating project-based learning in our courses, we aim to develop project-based learning components aligned with real-world tasks, including experimental design and execution, report writing, oral presentation, and peer-reviewing. This paper describes the organization of our project-based machine learning courses with a particular emphasis on the class project components and shares our resources with instructors who would like to include similar elements in their courses.
+
+### Teaching Machine Learning in the Context of Critical Quantitative Information Literacy
+*Carrie Diaz Eaton*
+
+Bates College, is a small liberal arts postsecondary institution in the northeast United States. An information literacy course, Calling Bull, serves as an introductory data science class as well as a prerequisite-free quantitative literacy class. In this context, we spend a week discussing machine learning, with an emphasis on facial recognition algorithms. The emphasis is on the general algorithmic approach, critical inquiry of the process and careful interpretation of results presented in research or decision-making. This module relies on the use of open educational materials, discussion, and careful attention to issues of marginalization and algorithmic justice.
+
+### Teaching Uncertainty Quantification in Machine Learning through Use Cases
+Matias Valdenegro-Toro
+
+Uncertainty in machine learning is not generally taught as general knowledge in Machine Learning course curricula. In this paper we propose a short curriculum for a course about uncertainty in machine learning, and complement the course with a selection of use cases, aimed to trigger discussion and let students play with the concepts of uncertainty in a programming setting. Our use cases cover the concept of output uncertainty, Bayesian neural networks and weight distributions, sources of uncertainty, and out of distribution detection. We expect that this curriculum and set of use cases motivates the community to adopt these important concepts into courses for safety in AI.
+
+### Experiences from Teaching Practical Machine Learning Courses to Master's Students with Mixed Backgrounds
+*Omar Shouman, Simon Fuchs, Holger Wittges*
+
+Machine learning education has become more accessible and relevant to students from various backgrounds. Practical courses complement theoretical lectures by focusing on applied machine learning. In this work, we report about our experiences from teaching two machine learning practical courses to master students from different study programs; an introductory and an advanced course. We present a summary of the teaching and evaluation methods used in both courses. We summarize our experiences and the feedback collected from the students through a survey. We conclude with our recommendations on teaching and designing practical machine learning courses.
+
+### A lesson for teaching fundamental Machine Learning concepts and skills to molecular biologists
+*Rabea Müller, Akinyemi Mandela Fasemore, Muhammad Elhossary, Konrad U Foerstner*
+
+Machine Learning represents an invaluable set of tools for the analysis of data in molecular biology as well as bio-medicine. Here we present an training approach to teach fundamental machine learning skills to researchers in their early career stage (PhD and postdoc level) with the aim to empower them to apply these methods in their own research projects. The content was developed for being delivered in a short and intense learning period as part of a remote systems biology workshop but can be adapted to other scenarios with a less restricted time frame.
+
+### Participatory Live Coding and Learning-Centered Assessment in Programming for Data Science
+*Sarah M Brown*
+
+Programming for Data Science is a programming intensive data science course. This paper discusses a revision of the course to center student learning. The revision effort centered the desired learning outcomes and resulted in a course that charted an explicit path toward achieving them for students. This paper summarizes the design overall and provides practical details about the instruction via participatory live coding and assessment with a competency based grading scheme
+
+
+### Putting the "Machine" Back in Machine Learning for Engineering Students
+*Rudy Chin, Dimitrios Stamoulis, Diana Marculescu*
+
+Computer hardware architecture has played an important role in the recent advances made in deep learning and associated applications. However, effective teaching strategies for hardware architectures for machine learning require a different structure and technical background than classic machine learning. More specifically, not only does the material need to convey necessary machine learning concepts to students, but also covers the hardware and software infrastructure concepts required for supporting machine learning systems. In this paper, we describe our approach to designing the course materials along with student assessment and evaluation for the ""Hardware Architectures for Machine Learning"" course targeting Electrical and Computer Engineering graduate students.
+
+
+### Teaching Machine Learning in Argentina: the ClusterAI pipeline
+*Martin Palazzo, Agustin Velazquez, Melisa Breda, Matias Callara, Nicolas Aguirre*
+
+Teaching machine learning has been a growing activity in almost any educational establishment. Despite the high availability on study materials, Latin America region has seen a lack of educational programs focused on machine learning. Additionally the majority of educational materials are available only in English. In this work we propose the ClusterAI pipeline based on a curated list of topics in Spanish and a collaboration with the Buenos Aires city government that open public data-sets that let students to apply machine learning models on real data. 
+
+
 
 ### Reviewers
 
