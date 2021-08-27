@@ -27,10 +27,10 @@ We will publish the conference link on this website before the event.
 
 | Time/CEST                                                                          | Title                                                                                                                  | Speaker                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1200) | AI Campus - the learning platform for artificial intelligence                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)                   |
-| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1300) | Embedding Ethics in Data Structures Classes                                                                                                                    | [Sorelle Friedler](http://sorelle.friedler.net/)                              |
-| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
-| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200908T1500) | Wrap up                                                                                                                |                                                                               |
+| [2:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1200) | AI Campus - the learning platform for artificial intelligence                                                          | [Cornelia Gamst](https://neuland21.de/team/cornelia-gamst/)                   |
+| [3:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1300) | Embedding Ethics in Data Structures Classes                                                                                                                    | [Sorelle Friedler](http://sorelle.friedler.net/)                              |
+| [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
+| [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1500) | Wrap up                                                                                                                |                                                                               |
 
 #### Video Conference Details
 
@@ -69,11 +69,11 @@ just the classroom; all while (3) being ourselves.
 
 | Time/CEST | Topic |
 | --------- | ------- |
-| [2:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1230) - 2:45 pm | Welcome        |
-| [2:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1245) - 3:45 pm | **Community Connect** <br />During the community connect, participants will have the opportunity to discuss the workshop's papers with the authors. This is a chance to connect over emerging pedagogical practices and philosophies while also building a more robust community of machine learning educators. |
-| [3:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1345) - 4:00 pm | Break |
-| [4:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1400) - 5:00 pm | Workshop discussions |
-| [5:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200913T1500) - 5:30 pm | Wrap up |
+| [2:30](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T1230) - 2:45 pm | Welcome        |
+| [2:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T1245) - 3:45 pm | **Community Connect** <br />During the community connect, participants will have the opportunity to discuss the workshop's papers with the authors. This is a chance to connect over emerging pedagogical practices and philosophies while also building a more robust community of machine learning educators. |
+| [3:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T1345) - 4:00 pm | Break |
+| [4:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T1400) - 5:00 pm | Workshop discussions |
+| [5:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210913T1500) - 5:30 pm | Wrap up |
 
 
 #### Video Conference Details
