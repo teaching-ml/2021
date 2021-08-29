@@ -37,7 +37,7 @@ We will publish the conference link on this website before the event.
 The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
 
 
-#### Cornelia Gamst, Demo of „AI Campus - the learning platform for artificial intelligence“
+#### Cornelia Gamst, Demo of "AI Campus - the learning platform for artificial intelligence"
 
 Everybody (well, almost) wants to learn Machine Learning, or Data Science these days. The big online learning platforms already offer a wide variety of options, differing in level, length, depth and also learning formats. But somehow in Germany there still seems to be a missing piece. "AI Campus" wants to fill that gap with specialized courses and learning nuggets for a broad target group: from in depth courses for domain experts to learning nuggets offering a basic understanding of what's behind AI and machine learning for the general public.
 
