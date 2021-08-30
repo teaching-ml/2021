@@ -37,20 +37,35 @@ We will publish the conference link on this website before the event.
 The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
 
 
-#### Cornelia Gamst, Demo of "AI Campus - the learning platform for artificial intelligence"
+#### Demo of "AI Campus - the learning platform for artificial intelligence"
 
 Everybody (well, almost) wants to learn Machine Learning, or Data Science these days. The big online learning platforms already offer a wide variety of options, differing in level, length, depth and also learning formats. But somehow in Germany there still seems to be a missing piece. "AI Campus" wants to fill that gap with specialized courses and learning nuggets for a broad target group: from in depth courses for domain experts to learning nuggets offering a basic understanding of what's behind AI and machine learning for the general public.
 
 In this workshop, we will give a brief demo of learning formats available on AI Campus, discuss our general curriculum framework and we can take a closer look at how we do things in specific courses that are of interest to the audience of the workshop.
 
-#### Sorelle Friedler, Embedding Ethics in Data Structures Classes
+**About Cornelia Gamst**
+
+<img src="img/cornelia-gamst.jpg" alt="" style="float: left;width: 10em;margin: 0em 1em 0em 0em;" class="rounded-circle">
+
+Cornelia Gamst is the curriculum manager at the KI-Campus and together with the DFKI responsible for the content of the overall programme offered at the KI-Campus.
+<br style="clear: both;" />
+
+
+#### Embedding Ethics in Data Structures Classes
 
 Everybody (well, almost) wants to learn Machine Learning, or Data Science these days. The big online learning platforms already offer a wide variety of options, differing in level, length, depth and also learning formats. But somehow in Germany there still seems to be a missing piece. "AI Campus" wants to fill that gap with specialized courses and learning nuggets for a broad target group: from in depth courses for domain experts to learning nuggets offering a basic understanding of what's behind AI and machine learning for the general public.
 
 In this workshop, we will give a brief demo of learning formats available on AI Campus, discuss our general curriculum framework and we can take a closer look at how we do things in specific courses that are of interest to the audience of the workshop.
 
+**About Sorelle Friedler**
 
-#### Alicia Johnson, Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom
+<img src="img/sorelle-friedler.jpg" alt="" style="float: left;width: 10em;margin: 0em 1em 0em 0em;" class="rounded-circle">
+
+Sorelle Friedler is an Associate Professor of Computer Science at Haverford College and an Affiliate at the Data & Society Research Institute. She is a Co-Founder of the ACM Conference on Fairness, Accountability, and Transparency. Sorelle's research focuses on the fairness and interpretability of machine learning algorithms, with applications from criminal justice to materials discovery, and she has incorporated these ideas into introductory computer science, data science, and algorithms courses.
+
+<br style="clear: both;" />
+
+#### Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom
 
 As machine learning educators, we’re trained to translate and
 weave developing “best practices” into our classrooms. For example, we
@@ -64,7 +79,11 @@ of inclusive, ethical, and active learning practices; and (2) reflecting
 that these goals are critical to the entire machine learning workflow, not
 just the classroom; all while (3) being ourselves.
 
+**About Alicia Johnson**
 
+<img src="img/alicia-johnson.jpg" alt="" style="float: left;width: 10em;margin: 0em 1em 0em 0em;" class="rounded-circle">
+
+Professor Johnson’s primary research interest is in Markov chain Monte Carlo (MCMC) methods. The focus of her research has been on the convergence rates of chains corresponding to MCMC algorithms on general state spaces. In addition, she enjoys the unlimited applications of statistics. As a consultant for a division of the Centers for Disease Control and Prevention and the University of Minnesota, she has collaborated on projects in entomology, forestry, primatology, public health, and others. In other words, her work in statistics allows her to keep learning a little about a lot!
 ### Schedule for workshop Day September 13, 2021
 
 | Time/CEST | Topic |
