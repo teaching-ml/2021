@@ -211,7 +211,7 @@ Uncertainty in machine learning is not generally taught as general knowledge in 
 Machine learning education has become more accessible and relevant to students from various backgrounds. Practical courses complement theoretical lectures by focusing on applied machine learning. In this work, we report about our experiences from teaching two machine learning practical courses to master students from different study programs; an introductory and an advanced course. We present a summary of the teaching and evaluation methods used in both courses. We summarize our experiences and the feedback collected from the students through a survey. We conclude with our recommendations on teaching and designing practical machine learning courses.
 
 ### A lesson for teaching fundamental Machine Learning concepts and skills to molecular biologists
-*Rabea Müller, Akinyemi Mandela Fasemore, Muhammad Elhossary, Konrad U Foerstner*
+*Rabea Müller, Akinyemi Mandela Fasemore, Muhammad Elhossary, Konrad U Förstner*
 
 Machine Learning represents an invaluable set of tools for the analysis of data in molecular biology as well as bio-medicine. Here we present an training approach to teach fundamental machine learning skills to researchers in their early career stage (PhD and postdoc level) with the aim to empower them to apply these methods in their own research projects. The content was developed for being delivered in a short and intense learning period as part of a remote systems biology workshop but can be adapted to other scenarios with a less restricted time frame.
 
