@@ -53,9 +53,19 @@ Cornelia Gamst is the curriculum manager at the KI-Campus and together with the 
 
 #### Embedding Ethics in Data Structures Classes
 
-Everybody (well, almost) wants to learn Machine Learning, or Data Science these days. The big online learning platforms already offer a wide variety of options, differing in level, length, depth and also learning formats. But somehow in Germany there still seems to be a missing piece. "AI Campus" wants to fill that gap with specialized courses and learning nuggets for a broad target group: from in depth courses for domain experts to learning nuggets offering a basic understanding of what's behind AI and machine learning for the general public.
-
-In this workshop, we will give a brief demo of learning formats available on AI Campus, discuss our general curriculum framework and we can take a closer look at how we do things in specific courses that are of interest to the audience of the workshop.
+Fairness in machine learning, or more broadly AI Ethics, has become a hot
+topic in research over the past 5 years and these topics are increasingly
+being incorporated into the machine learning and AI curriculum. In this
+talk, I'll argue that we can best prepare our students to participate in
+these conversations and build better machine learning systems by
+introducing them to ethical ideas early in the curriculum. Data Structures,
+generally taught in the second semester of a college computer science
+curriculum, is an early and required class where students learn to think of
+themselves as problem solvers. Integrating data-driven real world projects
+and associated ethical concerns into data structures teaches students the
+background they'll need to build better ML. I'll discuss projects
+integrating racial equity concerns and environmental impact into the data
+structures curriculum.
 
 **About Sorelle Friedler**
 
