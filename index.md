@@ -131,7 +131,7 @@ The central activity of the workshop will be twofold:
 
 1. a call-for-papers whereby teaching professionals or beginners are asked to describe their method of choice when teaching a given ML topic. We like to attract at maximum 4-page long mini-articles (excluding references and acknowledgements) that present or discuss a teaching activity related to machine learning. For more details, see below.
 
-2. **presentations of 5-7 minute lightning talks of all accepted papers**
+2. accepted papers will be shared in a community connection session, where presenters and participants can discuss the papers. (This is like a poster session but without posters)
 
 ### Proceedings and Paper Format
 
