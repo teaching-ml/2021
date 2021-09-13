@@ -32,10 +32,7 @@ We will publish the conference link on this website before the event.
 | [4:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1400) | Rethinking the dreaded textbook: taking inspiration from the inclusive, ethical, and active machine learning classroom | [Alicia Johnson](https://www.macalester.edu/mscs/facultystaff/aliciajohnson/) |
 | [5:00 pm](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210908T1500) | Wrap up                                                                                                                |                                                                               |
 
-#### Video Conference Details
-
-The satellite event will be streamed on [zoom](https://zoom.us). To connect, use the following [link](https://us06web.zoom.us/j/89839487704?pwd=QXp3MWc4WVNTRFdBeldhRWVBU0RwUT09). Telephone dial-ins are available [here](https://us06web.zoom.us/u/kbSgTcLx3S).
-
+The videos of each talk will be made available on youtube. The notes including the Q&A are available [here](./download/satellite/event-notes.md).
 
 #### Demo of "AI Campus - the learning platform for artificial intelligence"
 
