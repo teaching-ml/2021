@@ -157,6 +157,10 @@ Each submitted paper will be reviewed publicly by at least two experienced machi
 
 ## Accepted Papers 
 
+### Workshop Proceedings
+
+Accepted papers are published in the Proceedings of Machine Learning Research (PMLR). They are open-access and can be retrieved from the [PMLR website](https://proceedings.mlr.press/v170/). 
+
 ### Staying Ahead in the MOOC-Era by Teaching Innovative AI Courses
 *Patrick Glauner*
 
